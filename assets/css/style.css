@@ -462,6 +462,17 @@ body.page-navbar-fixed-top-sm {
 
 /* 5.1 About Us Author Setting */
 
+
+.about-content h1,
+.about-content h2,
+.about-content h3,
+.about-content h4 {
+    color: 000;
+    margin: 0 0 30px;
+    font-weight: 300;
+
+}
+
 .about-author {
     position: relative;
 }
@@ -2961,4 +2972,10 @@ a.list-group-item.active:focus {
 }
 .theme-panel.active {
     right: 0;
+}
+
+
+#service .btn{
+
+
 }
